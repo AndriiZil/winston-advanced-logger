@@ -1,0 +1,26 @@
+{
+  "name": "winston-advanced-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiZil/winston-advanced-logger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiZil/winston-advanced-logger/issues"
+  },
+  "homepage": "https://github.com/AndriiZil/winston-advanced-logger#readme",
+  "dependencies": {
+    "express": "4.17.3",
+    "morgan": "1.10.0",
+    "morgan-json": "1.1.0",
+    "winston": "3.6.0"
+  }
+}
